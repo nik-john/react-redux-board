@@ -40,7 +40,7 @@
     "jest-cli": "13.2.3",
     "json-loader": "0.5.4",
     "local-storage": "1.4.2",
-    "lodash": "4.13.1",
+    "lodash": "4.17.19",
     "md5": "2.1.0",
     "moment": "2.14.1",
     "mongoose": "4.5.6",
